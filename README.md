@@ -2,7 +2,7 @@
 
 Una página web interactiva y animada desarrollada con HTML5, CSS3 y JavaScript puro. Diseñada como un detalle virtual para regalar flores amarillas, cuenta con una pantalla de bienvenida interactiva, música de fondo sincronizada, animaciones fluidas de tallos, pétalos y un efecto de partículas luminosas.
 
-🔗 **Demostración:** [Ver proyecto](https://cristhian20.github.io/deCristhian./)
+🔗 **Demostración:** [Ver proyecto](https://gof-of-souls.github.io/sorpresa/)
 
 ---
 
@@ -26,6 +26,6 @@ Una página web interactiva y animada desarrollada con HTML5, CSS3 y JavaScript 
 
 ## 🚀 Cómo usar o personalizar este proyecto
 
-* Solo envía el siguiente enlace --->  https://cristhian20.github.io/sorpresa/
+* Solo envía el siguiente enlace --->  https://gof-of-souls.github.io/sorpresa/
 * Puedes clonar o adaptar este proyecto para personalizar el mensaje.
 
