@@ -26,6 +26,6 @@ Una página web interactiva y animada desarrollada con HTML5, CSS3 y JavaScript 
 
 ## 🚀 Cómo usar o personalizar este proyecto
 
-* Solo envía el siguiente enlace --->  https://cristhian20.github.io/deCristhian./
+* Solo envía el siguiente enlace --->  https://cristhian20.github.io/sorpresa/
 * Puedes clonar o adaptar este proyecto para personalizar el mensaje.
 
